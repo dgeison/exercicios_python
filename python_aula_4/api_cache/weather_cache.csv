@@ -1,0 +1,543 @@
+city_query,temperatura
+brasília,19.0
+springs,8.2
+aurora,13.7
+london,8.1
+saint-denis,21.1
+cape coral,28.9
+molodetno,
+tanza,32.2
+changhwa,22.4
+changzhou,28.0
+ourense (orense),6.2
+bijapur,25.5
+santa brbara doeste,26.8
+apeldoorn,11.2
+kolpino,6.2
+qomsheh,17.3
+nantou,32.0
+richmond hill,10.0
+skikda,19.7
+beira,21.1
+ikerre,22.3
+acua,23.6
+adana,19.2
+addis abeba,18.3
+aden,29.2
+adoni,26.8
+ahmadnagar,26.2
+akishima,25.4
+akron,11.7
+al-ayn,26.5
+alessandria,14.1
+al-hawiya,15.6
+allappuzha (alleppey),24.1
+allende,34.5
+al-manama,32.2
+almirante brown,12.4
+al-qadarif,31.5
+al-qatif,18.3
+memphis,26.4
+halisahar,30.3
+omdurman,30.2
+santa rosa,32.3
+valparai,16.0
+bhilwara,31.0
+tanauan,29.2
+hodeida,28.7
+sumy,9.0
+zhoushan,29.8
+usolje-sibirskoje,
+lengshuijiang,26.2
+donostia-san sebastin,29.0
+probolinggo,27.8
+najafabad,15.2
+okayama,25.1
+bern,10.3
+cuautla,33.2
+mexicali,34.4
+santiago de los caballeros,25.3
+malm,8.1
+tarsus,19.3
+plock,3.2
+dadu,29.4
+koriyama,25.2
+ozamis,29.9
+tambaram,29.2
+po,
+york,8.1
+san lorenzo,23.0
+songkhla,30.3
+southend-on-sea,6.3
+sokoto,30.9
+yantai,29.2
+fukuyama,24.0
+satna,36.6
+sivas,2.3
+tangail,29.0
+sincelejo,24.2
+laohekou,31.4
+el fuerte,26.6
+kurgan,15.5
+bhopal,26.2
+kaliningrad,6.1
+tianjin,30.3
+florencia,19.8
+parbhani,30.3
+uluberia,31.3
+greensboro,22.2
+pathankot,32.1
+yerevan,11.0
+faaa,30.3
+ashdod,17.3
+blumenau,23.1
+yingkou,24.0
+battambang,30.7
+baku,18.3
+arlington,27.2
+san miguel de tucumn,33.6
+maikop,8.0
+abha,19.2
+abu dhabi,28.2
+a corua (la corua),25.1
+alvorada,24.9
+ambattur,29.2
+amersfoort,9.4
+amroha,33.4
+angra dos reis,19.4
+anpolis,
+antofagasta,15.3
+aparecida de goinia,14.8
+araatuba,
+arak,20.8
+arecibo,25.1
+ashgabat,27.3
+asuncin,
+athenai,
+atinsk,
+augusta-richmond county,15.3
+avellaneda,15.4
+baha blanca,16.2
+baicheng,21.0
+baiyin,24.6
+balaiha,
+balikesir,7.2
+balurghat,30.3
+bamenda,17.1
+bandar seri begawan,30.4
+banjul,22.2
+batman,11.2
+batna,18.2
+baybay,30.3
+bayugan,30.5
+bchar,19.2
+belm,17.2
+benguela,22.6
+beni-mellal,17.4
+benin city,23.3
+bergamo,16.0
+berhampore (baharampur),30.2
+bhavnagar,30.4
+bhimavaram,33.1
+bhusawal,30.8
+bilbays,19.3
+binzhou,37.4
+birgunj,29.0
+boa vista,26.2
+boksburg,15.3
+botosani,7.2
+botshabelo,8.4
+bradford,8.2
+braslia,
+bratislava,13.1
+brescia,18.3
+brindisi,13.3
+brockton,11.7
+bucuresti,8.0
+buenaventura,23.7
+cabuyao,24.7
+callao,18.5
+cam ranh,29.5
+caracas,27.3
+carmen,29.5
+cavite,33.3
+cayenne,25.0
+celaya,29.0
+chandrapur,35.0
+charlotte amalie,28.1
+cheju,21.1
+chiayi,
+chisinau,6.1
+chungho,33.1
+cianjur,27.3
+ciomas,29.4
+ciparay,26.8
+citrus heights,28.1
+citt del vaticano,26.0
+coacalco de berriozbal,23.6
+coatzacoalcos,32.1
+compton,20.1
+coquimbo,14.4
+crdoba,
+cuauhtmoc,
+cuernavaca,33.2
+cuman,24.8
+czestochowa,7.3
+dallas,27.8
+datong,30.8
+daugavpils,4.2
+davao,29.1
+daxian,29.5
+dayton,17.4
+deba habe,27.0
+dhaka,30.3
+dhule (dhulia),30.0
+dongying,36.6
+dos quebradas,22.1
+duisburg,9.3
+dundee,10.2
+dzerzinsk,
+ede,20.5
+effon-alaiye,21.7
+el alto,22.3
+elista,11.6
+el monte,25.3
+emeishan,25.2
+emmen,7.3
+erlangen,5.2
+escobar,21.8
+esfahan,16.1
+eskisehir,6.0
+etawah,37.6
+ezeiza,12.4
+ezhou,29.6
+fengshan,32.2
+firozabad,38.4
+fontana,26.7
+funafuti,30.0
+fuyu,18.8
+garden grove,22.3
+garland,26.3
+gatineau,7.2
+gaziantep,15.4
+gijn,
+gingoog,28.1
+goinia,
+grand prairie,27.2
+graz,9.1
+guadalajara,29.0
+guaruj,19.4
+guas lindas de gois,14.7
+haining,27.1
+haiphong,30.2
+haldia,30.9
+halifax,7.6
+halle/saale,9.4
+hami,9.4
+hamilton,9.4
+hanoi,30.2
+hidalgo,24.9
+higashiosaka,26.3
+hiroshima,25.6
+hohhot,26.1
+hsichuh,
+huaian,28.9
+huejutla de reyes,34.8
+huixquilucan,18.3
+hunuco,
+idfu,29.0
+ife,22.3
+iligan,29.7
+ilorin,24.0
+imus,33.3
+inegl,
+ipoh,29.4
+isesaki,29.2
+ivanovo,8.5
+iwaki,25.2
+iwakuni,25.6
+iwatsuki,29.2
+izumisano,
+jaffna,29.7
+jaipur,33.3
+jakarta,29.4
+jalib al-shuyukh,31.2
+jamalpur,25.1
+jaroslavl,5.6
+jastrzebie-zdrj,5.3
+jedda,29.1
+jelets,
+jhansi,35.3
+jinchang,23.9
+jining,35.0
+jinzhou,16.1
+jodhpur,31.6
+johannesburg,15.8
+joliet,11.7
+jos azueta,25.1
+juazeiro do norte,23.1
+juiz de fora,13.9
+junan,32.5
+jurez,
+kaduna,24.2
+kakamigahara,22.3
+kalisz,4.3
+kamakura,22.8
+kamarhati,31.3
+kamjanets-podilskyi,
+kamyin,
+kanazawa,24.3
+kansas city,20.6
+karnal,34.8
+katihar,31.0
+kermanshah,13.2
+kilis,15.4
+kimberley,15.2
+kimchon,27.3
+kingstown,27.2
+kirovo-tepetsk,12.2
+kisumu,18.5
+kitwe,15.6
+klerksdorp,13.3
+konotop,8.7
+korla,19.5
+korolev,4.1
+kowloon and new kowloon,31.3
+kragujevac,11.2
+kuching,28.0
+kurashiki,25.4
+kursk,8.0
+kuwana,
+laiwu,32.1
+lancaster,25.6
+la paz,4.3
+la plata,12.4
+lapu-lapu,29.4
+laredo,36.1
+la romana,25.0
+lausanne,13.4
+leshan,30.1
+lhokseumawe,26.4
+liaocheng,36.9
+liepaja,2.1
+lilongwe,15.5
+lima,18.1
+lincoln,17.8
+linz,7.3
+lipetsk,9.3
+livorno,16.3
+ljubertsy,
+loja,12.4
+lublin,9.3
+lubumbashi,14.5
+lungtan,29.3
+luzinia,
+madiun,26.3
+mahajanga,23.1
+manchester,8.4
+mandaluyong,33.3
+mannheim,12.0
+maracabo,
+mardan,31.4
+maring,22.2
+masqat,31.0
+matamoros,35.2
+meixian,28.2
+merlo,7.0
+miraj,24.7
+mit ghamr,15.4
+miyakonojo,25.2
+mogiljov,
+monclova,34.6
+monywa,31.6
+moscow,10.2
+mosul,14.6
+mukateve,
+munger (monghyr),30.6
+mwanza,19.7
+mwene-ditu,20.2
+myingyan,31.7
+mysore,23.5
+naala-porto,26.1
+nabereznyje telny,
+nador,20.4
+nagareyama,27.2
+naju,31.7
+nakhon sawan,32.0
+nam dinh,30.3
+namibe,21.0
+nanyang,31.6
+ndjamna,
+newcastle,11.0
+nezahualcyotl,
+nha trang,30.3
+novi sad,10.2
+nuuk,6.0
+nyeri,13.9
+ocumare del tuy,27.3
+ogbomosho,22.6
+okara,34.6
+okinawa,30.3
+olomouc,7.8
+omiya,26.1
+ondo,22.8
+onomichi,24.0
+oshawa,8.0
+osmaniye,13.4
+ostka,
+otsu,26.3
+oulu,8.1
+owo,23.1
+paarl,14.2
+pak kret,31.1
+palghat (palakkad),25.3
+papeete,30.3
+patiala,34.3
+patras,32.3
+pavlodar,13.9
+pemalang,26.1
+peoria,32.4
+pereira,17.4
+phnom penh,31.1
+pingxiang,29.1
+pjatigorsk,6.3
+ponce,26.0
+pontianak,28.1
+poos de caldas,14.3
+portoviejo,24.0
+pudukkottai,29.2
+pune,26.0
+purnea (purnia),30.7
+pyongyang,22.1
+qalyub,19.3
+qinhuangdao,20.7
+quilmes,12.4
+rae bareli,32.6
+rajkot,29.9
+rampur,32.9
+ranchi,27.2
+rio claro,15.1
+roanoke,17.8
+robamba,
+rockford,11.1
+ruse,8.1
+rustenburg,7.1
+saarbrcken,
+sagamihara,
+saint louis,23.3
+sal,27.1
+salala,28.2
+salamanca,9.1
+salinas,18.9
+salzburg,6.3
+sambhal,33.8
+sanaa,14.3
+san bernardino,26.1
+san felipe del progreso,18.3
+san felipe de puerto plata,25.1
+san juan bautista tuxtepec,18.3
+santa f,14.3
+santo andr,19.4
+sanya,29.6
+sasebo,25.3
+sawhaj,24.6
+shahr-e kord,9.4
+shanwei,30.5
+shaoguan,23.9
+sharja,29.3
+s-hertogenbosch,11.1
+shikarpur,31.7
+shimoga,23.8
+shimonoseki,22.3
+shivapuri,
+shubra al-khayma,19.3
+siliguri (shiliguri),26.0
+simferopol,16.0
+smolensk,5.7
+so bernardo do campo,19.4
+sogamoso,9.9
+so leopoldo,30.1
+sorocaba,17.8
+soshanguve,14.9
+sousse,14.2
+southampton,8.3
+south hill,12.2
+southport,8.4
+stara zagora,8.2
+sterling heights,8.2
+stockport,8.4
+sucre,13.8
+suihua,18.2
+sullana,23.1
+sultanbeyli,
+sumqayit,18.3
+sungai petani,30.1
+sunnyvale,20.3
+surakarta,25.7
+syrakusa,
+szkesfehrvr,
+tabora,17.6
+tabriz,16.1
+tabuk,24.1
+taguig,33.3
+taizz,
+tama,28.0
+tandil,6.1
+tanshui,31.2
+tartu,16.7
+teboksary,
+tel aviv-jaffa,17.3
+tiefa,19.3
+tokat,6.9
+tonghae,21.2
+tongliao,15.6
+torren,14.3
+touliu,31.9
+toulon,16.2
+toulouse,14.2
+trshavn,
+tsuyama,25.4
+tuguegarao,31.7
+tychy,9.2
+udaipur,34.4
+ueda,29.1
+uijongbu,21.2
+urawa,27.6
+uruapan,22.9
+usak,8.8
+uttarpara-kotrung,25.2
+vaduz,13.1
+valencia,22.0
+valle de la pascua,24.6
+valle de santiago,31.0
+vancouver,13.3
+varanasi (benares),22.0
+vicente lpez,22.6
+vijayawada,24.1
+vila velha,20.0
+vilnius,9.0
+vinh,30.5
+vitria de santo anto,26.7
+warren,8.3
+weifang,35.9
+witten,10.0
+wroclaw,11.3
+xiangfan,30.9
+xiangtan,29.9
+xintai,32.4
+xinxiang,36.3
+yamuna nagar,30.7
+yangor,27.9
+yaound,22.3
+yinchuan,30.2
+yuncheng,35.0
+yuzhou,34.6
+zalantun,17.8
+zanzibar,23.8
+zaoyang,30.8
+zaria,24.6
+zeleznogorsk,
+zhezqazghan,13.4
+ziguinchor,24.3
+novoterkassk,
+tokyo,29.2
